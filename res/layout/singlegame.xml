@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent">
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:textSize="40dip" android:text="0" android:layout_x="129dip" android:layout_y="138dip" android:id="@+id/textView1"></TextView>
+    <TextView android:id="@+id/textView2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textSize="30dip" android:text="TextView" android:layout_x="97dip" android:layout_y="25dip"></TextView>
+    <TextView android:id="@+id/iii3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textSize="40dip" android:text="TextView" android:layout_x="14dip" android:layout_y="272dip"></TextView>
+</AbsoluteLayout>
